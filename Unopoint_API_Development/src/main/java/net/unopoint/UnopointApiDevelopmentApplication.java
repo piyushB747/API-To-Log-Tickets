@@ -1,0 +1,15 @@
+package net.unopoint;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UnopointApiDevelopmentApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UnopointApiDevelopmentApplication.class, args);
+	}
+
+	
+	
+}
